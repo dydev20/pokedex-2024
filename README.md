@@ -26,4 +26,4 @@
 * HTML dialog element to show a modal
 
 ## URL to Website
-* [https://pokedex-gen-1.netlify.app/](https://pokedex-2024.netlify.app/)
+* https://pokedex-2024.netlify.app/
